@@ -4,6 +4,10 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
     <file type="web" url="file://$PROJECT_DIR$/../recipe_2_1_ii" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_2" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_3_v" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_3_vi" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_3_vii" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
