@@ -12,6 +12,10 @@
     <file type="web" url="file://$PROJECT_DIR$/../recipe_2_5_ii" />
     <file type="web" url="file://$PROJECT_DIR$/../recipe_2_6_ii" />
     <file type="web" url="file://$PROJECT_DIR$/../recipe_2_7" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_8_i" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_8_ii" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_8_iii" />
+    <file type="web" url="file://$PROJECT_DIR$/../recipe_2_8_iv" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

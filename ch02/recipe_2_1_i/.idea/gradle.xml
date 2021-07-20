@@ -86,6 +86,42 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../recipe_2_8_i" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../recipe_2_8_i" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../recipe_2_8_ii" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../recipe_2_8_ii" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../recipe_2_8_iii" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../recipe_2_8_iii" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../recipe_2_8_iv" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../recipe_2_8_iv" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
